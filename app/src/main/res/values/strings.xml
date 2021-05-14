@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">Intent and validation</string>
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+    <string name="log">Log in</string>
+    <string name="name">Username</string>
+</resources>
