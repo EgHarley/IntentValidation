@@ -25,9 +25,9 @@
         android:layout_marginTop="50dp"
         android:autofillHints=""
         android:ems="10"
-        android:textSize="25dp"
         android:hint="Username"
-        android:inputType="textPersonName" />
+        android:inputType="textPersonName"
+        android:textSize="25dp" />
 
 
     <EditText
@@ -39,9 +39,9 @@
         android:autofillHints=""
         android:backgroundTint="#CF7C7C"
         android:ems="10"
-        android:textSize="25dp"
         android:hint="Password"
-        android:inputType="textPassword" />
+        android:inputType="textPassword"
+        android:textSize="25dp" />
 
     <Button
         android:id="@+id/button"
